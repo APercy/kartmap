@@ -1,0 +1,7 @@
+day_count = 115
+lbm_introduction_times = :doors:replace_doors_door_glass~82852;:doors:replace_doors_door_obsidian_glass~82852;:doors:replace_doors_door_steel~82852;:doors:replace_doors_door_wood~82852;:doors:replace_xpanes_door_steel_bar~82852;:farming:start_nodetimer_cotton~82852;:farming:start_nodetimer_wheat~82852;default:3dtorch~82852;default:convert_saplings_to_node_timer~82852;default:upgrade_chest_locked_v2~82852;default:upgrade_chest_v2~82852;moreblocks:fix_split_stone_tile_alt_name_collision~82852;moreblocks:reduce_wood_tile_redundancy~82852;xpanes:gen2~82852;
+last_clear_objects_time = 74429
+game_time = 83260
+lbm_introduction_times_version = 1
+time_of_day = 6292
+EnvArgsEnd
