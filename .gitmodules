@@ -1,0 +1,3 @@
+[submodule "Super Mine Kart/worldmods/superminekart"]
+	path = Super Mine Kart/worldmods/superminekart
+	url = https://github.com/APercy/superminekart.git
